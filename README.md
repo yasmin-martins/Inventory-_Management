@@ -4,7 +4,7 @@ Este projeto em Java simula o controle de estoque de açúcar entre duas unidade
 
 ---
 
- Funcionalidades
+ Funcionalidades:
 
 - Entrada de estoque por unidade
 - Saída de estoque com verificação de disponibilidade
